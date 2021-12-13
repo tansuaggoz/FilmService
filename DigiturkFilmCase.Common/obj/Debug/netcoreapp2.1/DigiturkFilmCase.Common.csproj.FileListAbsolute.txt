@@ -1,0 +1,14 @@
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\bin\Debug\netcoreapp2.1\DigiturkFilmCase.Common.deps.json
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\bin\Debug\netcoreapp2.1\DigiturkFilmCase.Common.dll
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\obj\Debug\netcoreapp2.1\DigiturkFilmCase.Common.csproj.CoreCompileInputs.cache
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\obj\Debug\netcoreapp2.1\DigiturkFilmCase.Common.AssemblyInfoInputs.cache
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\obj\Debug\netcoreapp2.1\DigiturkFilmCase.Common.AssemblyInfo.cs
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\bin\Debug\netcoreapp2.1\DigiturkFilmCase.Common.pdb
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\obj\Debug\netcoreapp2.1\DigiturkFilmCase.Common.dll
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\obj\Debug\netcoreapp2.1\DigiturkFilmCase.Common.pdb
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\obj\Debug\netcoreapp2.1\DigiturkFilmCase.Common.csproj.CopyComplete
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authorization.xml
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\obj\Debug\netcoreapp2.1\DigiturkFilmCase.Common.csprojAssemblyReference.cache
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.dll
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase.Common\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Authentication.xml

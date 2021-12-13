@@ -1,0 +1,17 @@
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\bin\Debug\netcoreapp2.1\DigiturkFilmCase.deps.json
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\bin\Debug\netcoreapp2.1\DigiturkFilmCase.runtimeconfig.json
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\bin\Debug\netcoreapp2.1\DigiturkFilmCase.runtimeconfig.dev.json
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\bin\Debug\netcoreapp2.1\DigiturkFilmCase.dll
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\bin\Debug\netcoreapp2.1\DigiturkFilmCase.pdb
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\bin\Debug\netcoreapp2.1\DigiturkFilmCase.Common.dll
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\bin\Debug\netcoreapp2.1\DigiturkFilmCase.Common.pdb
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.csprojAssemblyReference.cache
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.csproj.CoreCompileInputs.cache
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.RazorAssemblyInfo.cache
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.RazorAssemblyInfo.cs
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.AssemblyInfoInputs.cache
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.AssemblyInfo.cs
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.RazorTargetAssemblyInfo.cache
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.csproj.CopyComplete
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.dll
+C:\Users\taggoz\Desktop\DigiturkFilmCase\DigiturkFilmCase\obj\Debug\netcoreapp2.1\DigiturkFilmCase.pdb
